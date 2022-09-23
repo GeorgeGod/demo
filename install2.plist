@@ -11,17 +11,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.120/files/a.ipa</string>
+					<string>https://github.com/GeorgeGod/demo/cup.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wondertek.hecmccmobile4.prd</string>
+				<string>com.jarvis.demo</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>咪咕视频3</string>
+				<string>水杯</string>
 			</dict>
 		</dict>
 	</array>
