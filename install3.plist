@@ -1,6 +1,6 @@
-<?xml version=1.0 encoding=UTF-8?>
-<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
-<plist version=1.0>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <dict>
     <key>items</key>
     <array>
@@ -12,7 +12,8 @@
                     <string>software-package</string>
                     <key>url</key>
                     <!-- 需要替换的ipa下载路径 -->
-                    <string>http://192.168.1.112:4000/app/b.ipa</string>
+                    <!-- <string>http://192.168.1.112:4000/app/b.ipa</string> -->
+                    <string>https://192.168.1.252/install/app/Project6_China_QA_Adhoc_Test.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -32,3 +33,4 @@
     </array>
 </dict>
 </plist>
+
