@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
 <dict>
     <key>items</key>
     <array>
@@ -20,6 +20,8 @@
                 <key>bundle-identifier</key>
                 <!-- 需要替换的bundleID -->
                 <string>com.yunmiao.sjqy</string>
+                <key>bundle-version</key>
+                <string>3.49.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
