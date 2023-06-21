@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <!-- 需要替换的ipa下载路径 -->
+                    <string>http://192.168.1.112:4000/app/b.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <!-- 需要替换的bundleID -->
+                <string>com.yunmiao.sjqy</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <!-- 需要替换的app名称 -->
+                <string>浮光幻想</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
